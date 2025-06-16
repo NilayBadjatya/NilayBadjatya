@@ -1,3 +1,4 @@
+![logo](https://github.com/NilayBadjatya/NilayBadjatya/blob/main/LeetCode_June.png)
 <h1 align="center">Hi 👋, I'm Nilay Badjatya</h1>
 <h3 align="center">Software Engineer in the making | India</h3>
 
