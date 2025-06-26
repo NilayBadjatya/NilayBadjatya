@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nilay-badjatya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilay-badjatya/" height="30" width="40" /></a>
 <a href="https://instagram.com/nilayybadjatyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilayybadjatyya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nilaybadjatya2300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nilaybadjatya2300" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/nilaybadjatya2300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nilaybadjatya2300" height="30" width="40" /></a> -->
 <a href="https://discord.gg/#0162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0162" height="30" width="40" /></a>
 </p>
 
